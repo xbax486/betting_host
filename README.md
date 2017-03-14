@@ -2,6 +2,8 @@
 
 This Node command line app calculates the dividends for a simplified form of Tote betting for Tabcorp. The Node version here is the standard version v6.10.0, so please do not use any versions which is too old or too advanced for Node to run the app.
 
+![Result Shown](/result_show.png)
+
 ## Steps to use the app
 1. Unzip the bettin_host folder and cd into it in the terminal.
 2. Run "npm install" to install the required packages.
